@@ -944,4 +944,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         console.print("\n[yellow]Exiting...[/yellow]")
     except Exception as e:
+
         console.print(f"[red]Fatal error: {e}[/red]")
