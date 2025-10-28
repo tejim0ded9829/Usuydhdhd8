@@ -1,0 +1,26 @@
+# Core Dependencies
+aiohttp==3.9.1
+asyncio==3.4.3
+requests==2.31.0
+
+# UI & Display
+pystyle==2.9
+rich==13.7.0
+colorama==0.4.6
+
+# Image Processing & Computer Vision
+opencv-python==4.8.1.78
+Pillow==10.1.0
+numpy==1.26.2
+
+# OCR
+pytesseract==0.3.10
+
+# AI/ML
+ultralytics==8.0.220
+torch==2.1.1
+torchvision==0.16.1
+
+# Browser Automation
+selenium==4.15.2
+undetected-chromedriver==3.5.4
